@@ -19,3 +19,4 @@ git push origin andre
 git pull origin/andre para o andre
 
 bifanas
+smh
