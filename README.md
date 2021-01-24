@@ -18,6 +18,8 @@ git push origin andre
 
 git pull origin/andre para o andre
 
+git clone <url> 
+
 
 mudado
 =======
